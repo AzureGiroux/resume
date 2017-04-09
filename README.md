@@ -17,6 +17,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Beep
+- Bop
+- Boop
 
 1. Numbered
 2. List
